@@ -1,16 +1,35 @@
-# React + Vite
+## 🥗 Modern Salad Website — React + GSAP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a visually rich, animation-driven landing website designed for a healthy food / salad brand. The goal of the project is to demonstrate premium UI/UX practices, smooth motion design, and clean component architecture using modern frontend tools.
 
-Currently, two official plugins are available:
+### ✨ Features
+- Elegant, glassmorphic navigation bar with GSAP hover animations
+- Smooth hero section entrance animations without flicker
+- Scroll-based section reveals using GSAP
+- Interactive menu cards with micro-interactions
+- Carefully designed footer with staggered animations
+- Responsive layout optimized for all screen sizes
+- Performance-focused animation setup (no layout shift, no flashing)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🛠 Tech Stack
+- React
+- Tailwind CSS
+- GSAP (GreenSock)
+- @gsap/react
+- Vite
 
-## React Compiler
+### 🎯 Focus
+This project emphasizes:
+- Motion design that feels natural and intentional
+- Clean, maintainable React components
+- UX-first animation timing and easing
+- Best practices for GSAP + React integration
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🚀 Use Case
+- UI/UX inspiration
+- Frontend animation reference
+- Landing page demo for food, health, or lifestyle brands
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Built with attention to detail and modern frontend standards.
