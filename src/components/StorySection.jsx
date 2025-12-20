@@ -5,7 +5,7 @@ import ScrollTrigger from "gsap/ScrollTrigger";
 import leaf1 from "../assets/leaf1.png";
 import leaf2 from "../assets/leaf2.png";
 import leaf3 from "../assets/leaf3.png";
-import storyPng from "../assets/storyPng.png";
+import storyPng from "../assets/storypng.png";
 
 gsap.registerPlugin(ScrollTrigger);
 
