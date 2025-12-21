@@ -44,6 +44,7 @@ export default function Footer() {
 
   return (
     <footer
+    id="connect"
       ref={footerRef}
       className="
         relative z-10

@@ -37,7 +37,7 @@ const salads = [
   },
 ];
 
-export default function SaladHero() {
+export default function HeroDesktop() {
   const [active, setActive] = useState(0);
 
   const heroRef = useRef(null);

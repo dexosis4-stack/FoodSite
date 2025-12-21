@@ -1,11 +1,11 @@
 import React, { useRef } from "react";
 import Navbar from "./Navbar";
-import SaladHero from "./Hero";
 import StorySection from "./StorySection";
 import PopularMenu from "./PopularMenu";
 import Footer from "./Footer";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
+import HeroWrapper from "./HeroWrapper";
 
 const Landing = () => {
   const landingRef = useRef(null);
@@ -29,7 +29,7 @@ const Landing = () => {
       style={{ opacity: 0 }}
     >
       <Navbar />
-      <SaladHero />
+      <HeroWrapper/>
       <StorySection />
       <PopularMenu />
       <Footer />

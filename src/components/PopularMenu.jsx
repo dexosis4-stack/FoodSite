@@ -100,6 +100,7 @@ export default function PopularMenu() {
 
   return (
     <section
+    id="menu"
       ref={sectionRef}
       className="bg-[#f0fbee] py-28 relative z-40 rounded-b-[55px] overflow-hidden shadow-2xl  shadow-black/25"
     >
