@@ -136,7 +136,7 @@ export default function Footer() {
           px-8
         "
       >
-        <p>© 2025 Designed by uizard</p>
+       
         <div className="flex gap-4 mt-3 md:mt-0 text-center">
           <span className="cursor-pointer hover:text-black">Terms of Use</span>
           <span className="cursor-pointer hover:text-black">Privacy Policy</span>
